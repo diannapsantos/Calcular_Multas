@@ -1,3 +1,5 @@
+print("Programa de Cálculo de Multas iniciado com sucesso.\n")
+
 def multa_localidade(vel):
     if vel > 120:
         return 320
